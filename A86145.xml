@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The heads of severall petitions delivered by many of the troopers against the Lord General and some other officers of the army. With the answer which Mr. Pym made to the severall heads or petitions, before the committee on Tuesday, October 5. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86145</idno>
+            <idno type="STC">Wing H1289</idno>
+            <idno type="STC">Thomason E172_14</idno>
+            <idno type="STC">ESTC R17892</idno>
+            <idno type="EEBO-CITATION">99860293</idno>
+            <idno type="PROQUEST">99860293</idno>
+            <idno type="VID">112411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112411)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The heads of severall petitions delivered by many of the troopers against the Lord General and some other officers of the army. With the answer which Mr. Pym made to the severall heads or petitions, before the committee on Tuesday, October 5. 1641.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History, Military --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:112411:1" rendition="simple:additions"/>
+THE HEADS Of ſeverall PETITIONS delive<g ref="char:EOLhyphen"/>red by many of the Troopers againſt the LORD GENERAL And ſome other Officers of the Army.</p>
+            <p>With the Anſwer which Mr.<lb/>
+PYM<lb/>
+Made to the ſeverall Heads or Petitions, before the <hi>Committee</hi> on <hi>Tueſday, October</hi> 5. 1641.</p>
+            <figure/>
+            <p>LONDON, Printed for <hi>Iohn Thomas,</hi> 1641<g ref="char:punc">▪</g>
+            </p>
+            <pb facs="tcp:112411:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petitions">
+            <pb n="1" facs="tcp:112411:2"/>
+            <opener>
+               <dateline>
+                  <date>October the 5. 1641.</date>
+               </dateline>
+            </opener>
+            <head>THE HEADS Of the Petitions delivered by the Troopers againſt the Lord Ge<g ref="char:EOLhyphen"/>nerall and ſome Officers of the Army; With Mr. <hi>Pyms</hi> anſwer there<g ref="char:EOLhyphen"/>unto.</head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon <hi>Tueſday</hi> laſt the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> received divers other Petitions from ſeverall Troopers, <hi>viz.</hi> from the Troopers of Sir <hi>Thomas Lu<g ref="char:EOLhyphen"/>cas</hi> Colonell: And of his Brother Sir <hi>Charles Lucas</hi> Serjeant Major, moſt of which agreed in their particulars mentioned in their ſeverall Petitions, <hi>viz.</hi> That the Kings Majeſtie did freely of his Royall goodneſſe give unto the Petitioners their horſes, and that they deſired
+<pb n="2" facs="tcp:112411:3"/>
+to be reſolved from Mr. <hi>Committee.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>
+                     <label>I.</label>
+Whether it lay in my Lord Generals po<g ref="char:EOLhyphen"/>wer to give away 5. l. unto the Colonell<g ref="char:punc">▪</g> and Captaines out of their pay.</item>
+                  <item>
+                     <label>II.</label>
+Secondly, they Petitioned for monies de<g ref="char:EOLhyphen"/>ducted for Armes.</item>
+                  <item>
+                     <label>III.</label>
+Thirdly, they Petitioned for moneyes for powder and ſhot, which they paid for; either upon exerciſe or ſervice, which was allowed their Officers from the King.</item>
+                  <item>
+                     <label>IIII.</label>
+They Petitioned for moneyes which was deducted by their Officers for dead horſes; And laſtly they deſired to have redreſſe from the <hi>Committees,</hi> and that they might be ſuf<g ref="char:EOLhyphen"/>fered to travaile into forraigne parts, there were ſome other particulars then alledged by the Troopers againſt their ſeverall Captaines for money which they tooke from the Troo<g ref="char:EOLhyphen"/>pers for Armes loſt in the skirmiſh.</item>
+               </list>
+            </p>
+            <p>Vpon the receipt of the ſaid Petitions for anſwer thereunto; kept the <hi>Committees</hi> in han<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all that day, and about 12 of the clocke, M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Pym</hi> chiefe Committee, and 6. others of t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Committees went to the Lords and deſir<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Cenſure, and about one houre after they returned, and Mr. <hi>Pym</hi> then deſired that the Troopers might be called in where the Com<g ref="char:EOLhyphen"/>mittee for the Houſe of Commons ſate, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:112411:3"/>
+then told them he had an Order from the Lords to anſwer the particulars mentioned in their Petitions.</p>
+         </div>
+         <div type="response_to_petitions">
+            <head>The anſwer of Mr. <hi>Pym</hi> to the above mentioned particulars.</head>
+            <q>
+               <list>
+                  <item>
+                     <p>
+                        <label>I.</label>
+                        <seg rend="decorInit">I</seg> Am commanded from the Lords to tell you what the Law of this Realme is in theſe particulars, and that is this.</p>
+                     <p>Whereas you taxe my Lord Generall for the giving away 5. l. out of your pay for the horſes. It lyes not in the power of the Houſe of Com<g ref="char:EOLhyphen"/>mons to give you any redreſſe for my Lord Ge<g ref="char:EOLhyphen"/>nerall being a Peere of the Realme, and a Mem<g ref="char:EOLhyphen"/>ber of the higher Houſe, it lyeth not in our reach to call him to accompt therefore; But you muſt preferre your Petitions to the High<g ref="char:EOLhyphen"/>er Houſe, and then if my Lord have commit<g ref="char:EOLhyphen"/>ted crimes not beco<g ref="char:cmbAbbrStroke">̄</g>ming his place or perſon, without all queſtion you ſhall have a Remedy.</p>
+                  </item>
+                  <item>2. Secondly, for moneyes deducted for Armes. The Officers have enformed his Maje<g ref="char:EOLhyphen"/>ſty, it was the uſuall cuſtome in <hi>Holland, Ger<g ref="char:EOLhyphen"/>many,</hi> and other forraigne warres, where ſuch an army was aſſembled, that two-pence a day ſhould bee deducted out of every horſemans pay, in caſe that any armes ſhould be negligent<g ref="char:EOLhyphen"/>ly loſt, the ſaid moneyes were to buy new ones,
+<pb n="4" facs="tcp:112411:4"/>
+or to repaire the old ones, this lyes <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Coffers, whereunto we cannot give any anſwer but upon the deſired returne of his Majeſty, no queſtion but that ſo Noble and good a Prince, will give freely that which is your due.</item>
+                  <item>Thirdly and Fourthly, for the moneyes de<g ref="char:EOLhyphen"/>ducted for powder and ſhot, and for the dead horſes, it was by order from the Lord Generall, wherefore as I told you before you muſt repaire to the higher Houſe for ſatisfaction therein.</item>
+                  <item>5. Laſtly, whereas you Petition that none is ſuffered to goe into forraigne parts, wee have conſulted with the Lords thereupon, and hath thought fit that if any one or more of you have a deſire to goe beyond Sea, you may repaire hither and have a warrant granted for your paſ<g ref="char:EOLhyphen"/>ſage; But for thoſe that have friends we ſhall earneſtly intreat them to goe into the Country to their Parents or Kinsfolkes, and if you ſhall be pleaſed to follow this buſineſſe you may leave two of each ſeverall Troope to take care for you in your abſence, I would not willingly have you abide about this Towne for feare of ſcandall, there are many and great miſdemea<g ref="char:EOLhyphen"/>nors lately committed here in this Countrey, and all is layd upon your backs, but for mine owne part. I doe otherwiſe conceipt of you, be<g ref="char:EOLhyphen"/>lieving that as you are Gentlemen and Souldi<g ref="char:EOLhyphen"/>ers, you ſcorne to wrong any of the Kings Sub<g ref="char:EOLhyphen"/>jects, and being informed that there are others who are already in hold, which went in your habits, but proved no ſuch men. I am not ig<g ref="char:EOLhyphen"/>norant
+<pb n="5" facs="tcp:112411:4"/>
+but that a Souldiers life is warranted both by the Scripture and the Lawes of this Realme. And that you are to be nouriſhed by us being Members of the ſame Body Politique, and aſſuredly believe, that though it lyes not in our power to meddle with my Lord Generall, yet we ſhall preferre your Petitions, and bee either ready to heare or right your Grievances with all expedition that may bee, and ſo you may repaire hither upon this day ſeaven-night, where you ſhall heare further.</item>
+               </list>
+            </q>
+            <p>Vpon which Speech the Troopers deſired ſeverall warrants for their ſeverall Officers, which Mr. Committee granted, and they are to anſwer thereunto upon <hi>Tueſday</hi> next fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>Captaine <hi>Yarner</hi> was this day committed to the <hi>Kings-Bench</hi> for falſe Muſters.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
